@@ -1,4 +1,4 @@
-# Jardineria General
+# Pagina Web - Jardineria General
 
 Esto es una pagina web creada por mi, yo me dedique un buen tiempo a la jardineria y queria hacerme esta pagina para poder atraer mas clientes, mostrando mis trabajos y numeros para contactarme.
 
